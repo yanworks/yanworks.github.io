@@ -2,7 +2,7 @@
 
 kashgari for Java.
 
-Kashgari4j 是一个极简且强大的 `NLP` 框架，可用于文本分类和标注的学习，研究及部署上线。 
+**Kashgari4j** 是一个极简且强大的 `NLP` 框架，可用于文本分类和标注的学习，研究及部署上线。 
 
 **方便易用** `Kashgari4j` 提供了简洁统一的 API 和完善的文档，使其非常方便易用。 
 **内置迁移学习模块** `Kashgari4j` 通过提供 `BertEmbedding`, `GPT2Embedding`，`WordEmbedding` 等特征提取类，方便利用预训练语言模型实现迁移学习。 
