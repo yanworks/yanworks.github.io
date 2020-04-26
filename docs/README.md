@@ -1,18 +1,25 @@
-# Kashgari4j
+# 千橙工坊
 
-kashgari for Java.
+>  千橙，一个互联网开发者，也是业余游泳和骑行爱好者.
 
-**Kashgari4j** 是一个极简且强大的 `NLP` 框架，可用于文本分类和标注的学习，研究及部署上线。 
+![](media/4DSC08450.jpg)
+对互联网产品有瘾，经常喜欢和大家探讨科技新闻和好玩的互联网产品; 乐于探索开源代码的精妙，并享受编程带来的成就和便捷。崇尚可读代码的编写艺术 [The Art of Readable Code](http://www.amazon.cn/%E7%BC%96%E5%86%99%E5%8F%AF%E8%AF%BB%E4%BB%A3%E7%A0%81%E7%9A%84%E8%89%BA%E6%9C%AF-%E9%B2%8D%E6%96%AF%E7%BB%B4%E5%B0%94/dp/B008B4DTG4/ref=sr_1_1?qid=1407164485&sr=8-1		"编写可读代码的艺术")。 对坏味道的代码手痒，喜欢写Troubleshooting去解决重复问题(DRY, Don't Repeat Yourself).
 
-**方便易用** `Kashgari4j` 提供了简洁统一的 API 和完善的文档，使其非常方便易用。 
-**内置迁移学习模块** `Kashgari4j` 通过提供 `BertEmbedding`, `GPT2Embedding`，`WordEmbedding` 等特征提取类，方便利用预训练语言模型实现迁移学习。 
-**易扩展** `Kashgari4j` 提供简便的接口和继承关系，自行扩展新的模型结构非常方便。  
-**可用于生产** 通过把 `Kashgari4j` 模型导出为 `SavedModel` 格式，可以使用 `TensorFlow Serving` 模块提供服务，直接在线上环境使用。 
+对于技术Growth一个比较受用的思路：尽量去看优秀源码并抽象成自己的语言去描述/输出/分享/再优化；可以在自己工作中去造一些提升效率的轮子，解决重复和繁琐的开发痛点。̨
+CFA<sup>&reg;</sup> Cadidate, 关注在金融科技(信用保证保险/机构金融/消费金融/动态风控引擎等)。
+![](media/nanshan.jpg)
+坐标深圳, 看过凌晨4点的科技园. 工作之余也研究自驾游、房产、金融、小程序、机器学习等话题; 如果你也关注这些, 欢迎来撩.
 
-- 为 **学术研究者** 提供易于实验的环境，可快速验证理论。  
-- 为 **NLP初学者** 提供易于学习模仿的生产级别工程。 
-- 为 **NLP工作者** 提供快速搭建文本分类、文本标注的框架，简化日常工作流程。 
+- [x] 邮箱 `Z2V0LnFpYW5jaGVuZ0BnbWFpbC5jb20K`
+- [ ] Linkedin <a class="LI-simple-link" href='https://cn.linkedin.com/in/iqiancheng?trk=profile-badge'>**@iqiancheng**</a>
 
-### 参考
-[kashgari](https://github.com/BrikerMan/Kashgari/) Python SDK.  
-[kashgari 中文文档 ](https://kashgari-zh.bmio.net/) 
+### 职业规划
+- 关注互联网金融，专注分布式应用高可用
+- 成为最会写代码和懂Fintech的CFA<sup>&reg;</sup> Charterholder
+
+### 我眼中优秀的互联网人
+对技术充满热情,编程是生活的一部分. 对未知有好奇心, 拥抱变化，主动学习新技术; 对坏味道的代码过敏, 善于利用Google/Wiki或 Scholar 去解决问题并形成自己的输出成果; 有隐藏的冰山，有自己完成的项目, 有科技敏锐度，对许多不相关的技术有了解。
+
+![](media/14929417316599.jpg "小马")
+
+![](media/reward-code.jpg)
